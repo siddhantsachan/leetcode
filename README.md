@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/siddhantsachan/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/siddhantsachan/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/siddhantsachan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhantsachan/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/siddhantsachan/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/siddhantsachan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
 | ------- |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/siddhantsachan/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/siddhantsachan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
