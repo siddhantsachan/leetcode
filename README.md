@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/siddhantsachan/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/siddhantsachan/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
