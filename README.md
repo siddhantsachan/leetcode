@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/siddhantsachan/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/siddhantsachan/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/siddhantsachan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/siddhantsachan/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Hash Table
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/siddhantsachan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/siddhantsachan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+## Counting
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/siddhantsachan/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
